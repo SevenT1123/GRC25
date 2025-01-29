@@ -1,0 +1,5 @@
+C:/Users/riyan/GitHub/GRC25/BMS-Firmware/CMakeFiles/GRC_BMS.dir
+C:/Users/riyan/GitHub/GRC25/BMS-Firmware/CMakeFiles/edit_cache.dir
+C:/Users/riyan/GitHub/GRC25/BMS-Firmware/CMakeFiles/rebuild_cache.dir
+C:/Users/riyan/GitHub/GRC25/BMS-Firmware/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/riyan/GitHub/GRC25/BMS-Firmware/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

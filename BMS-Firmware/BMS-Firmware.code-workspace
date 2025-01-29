@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+        "files.associations": {
+            "stm32f4xx_hal_conf.h": "c",
+            "stm32f4xx_hal_conf_template.h": "c",
+            "stm32f4xx_hal_msp.c": "c",
+            "stm32f4xx_hal_msp_template.c": "c",
+            "stm32f4xx_it.c": "c",
+            "stm32f4xx_it_template.c": "c",
+            "system_stm32f4xx.c": "c",
+            "system_stm32f4xx_template.c": "c",
+            "startup_stm32f407xx.s": "asm",
+            "cmsis_os2.h": "c"
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.cpptools", 
+            "ms-vscode.cmake-tools",
+            "stmicroelectronics.stm32-vscode-extension"]
+    }
+}
