@@ -1,0 +1,9 @@
+build/
+.vscode/
+.mxproject
+CMakecache.txt
+build.ninja
+.ninja_deps
+.ninja_log
+*.elf
+*.map
