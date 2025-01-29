@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/riyan/Documents/GitHub/GRC26/BMS-Firmware/cmake/stm32cubemx
+# Install script for directory: C:/Users/riyan/GitHub/GRC25/BMS-Firmware/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

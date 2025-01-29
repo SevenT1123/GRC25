@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/riyan/Documents/GitHub/GRC26/BMS-Firmware
+# Install script for directory: C:/Users/riyan/GitHub/GRC25/BMS-Firmware
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/riyan/Documents/GitHub/GRC26/BMS-Firmware/cmake/stm32cubemx/cmake_install.cmake")
+  include("C:/Users/riyan/GitHub/GRC25/BMS-Firmware/cmake/stm32cubemx/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/riyan/Documents/GitHub/GRC26/BMS-Firmware/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/riyan/GitHub/GRC25/BMS-Firmware/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
